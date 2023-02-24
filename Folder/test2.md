@@ -35,7 +35,7 @@
 * The compiler can be divided into a number of regions:
 
 
-![IDE](cs50Week1Slide017.png "IDE")
+![IDE]https://cs50.harvard.edu/x/2023/notes/1/(cs50Week1Slide017.png "IDE")
 
  Notice that there is a *file explorer* on the left side where you can find your files. Further, notice that there is a region in the middle called a *text editor* where you can edit your program. Finally, there is a `command line interface`, known as a *CLI*, *command line*, or *terminal window* where we can send commands to the computer in the cloud.
 * We can build your first program in C by typing `code hello.c` into the terminal window. Notice that we deliberately lowercased the entire filename and included the `.c` extension. Then, in the text editor that appears, write code as follows:
@@ -483,7 +483,7 @@ Notice that `true` will always be the case. Therefore, the code will always run.
 	+ `rm`, for removing (deleting) files
 	+ `rmdir`, for removing (deleting) directories
 * The most commonly used is `ls` which will list all the files in the current directory or directory. Go ahead and type `ls` into the terminal window and hit `enter`. You’ll see all the files in the current folder.
-* Another useful command is `mv`, where you can move a file from one file to another. For example, you could use this command to rename `Hello.c` (notice the uppercase `H`) to `hello.c` by typing `mv Hello.c hello.c`.
+* Another useful command is `mv`, where you can move a file from one file to another. For example, you could use this command to rename `Hello.c` https://cs50.harvard.edu/x/2023/notes/1/(notice the uppercase `H`) to `hello.c` by typing `mv Hello.c hello.c`.
 * You can also create folders. You can type `mkdir pset1` to create a directory called `pset1`.
 * You can then use `cd pset1` to change your current directory to `pset1`.
 
@@ -518,7 +518,7 @@ int main(void)
 
     }
 
-    printf("\n");
+    printfhttps://cs50.harvard.edu/x/2023/notes/1/("\n");
 
 }
 
@@ -547,7 +547,7 @@ int main(void)
 
     {
 
-        printf("#\n");
+        printfhttps://cs50.harvard.edu/x/2023/notes/1/("#\n");
 
     }
 
