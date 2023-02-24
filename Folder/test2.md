@@ -483,7 +483,7 @@ Notice that `true` will always be the case. Therefore, the code will always run.
 	+ `rm`, for removing (deleting) files
 	+ `rmdir`, for removing (deleting) directories
 * The most commonly used is `ls` which will list all the files in the current directory or directory. Go ahead and type `ls` into the terminal window and hit `enter`. You’ll see all the files in the current folder.
-* Another useful command is `mv`, where you can move a file from one file to another. For example, you could use this command to rename `Hello.c` (https://cs50.harvard.edu/x/2023/notes/1/notice the uppercase `H`) to `hello.c` by typing `mv Hello.c hello.c`.
+* Another useful command is `mv`, where you can move a file from one file to another. For example, you could use this command to rename `Hello.c` (notice the uppercase `H`) to `hello.c` by typing `mv Hello.c hello.c`.
 * You can also create folders. You can type `mkdir pset1` to create a directory called `pset1`.
 * You can then use `cd pset1` to change your current directory to `pset1`.
 
@@ -496,7 +496,7 @@ Notice that `true` will always be the case. Therefore, the code will always run.
 * Imagine we wanted to emulate the visual of the game Super Mario Bros. Considering the four question-blocks pictured, how could we create code that roughly represents these four horizontal blocks?
 
 
-![Mario Question Marks](cs50Week1Slide123.png "Mario Question Marks")
+![Mario Question Marks](https://cs50.harvard.edu/x/2023/notes/1/cs50Week1Slide123.png "Mario Question Marks")
 * In the terminal window, type `code mario.c` and code as follows:
 
 
@@ -518,7 +518,7 @@ int main(void)
 
     }
 
-    printf(https://cs50.harvard.edu/x/2023/notes/1/"\n");
+    printf("\n");
 
 }
 
@@ -529,7 +529,7 @@ Notice how four question marks are printed here using a loop.
 * Similarly, we can apply this same logic to be able to create three vertical blocks.
 
 
-![Mario Blocks](cs50Week1Slide125.png "Mario Blocks")
+![Mario Blocks](https://cs50.harvard.edu/x/2023/notes/1/cs50Week1Slide125.png "Mario Blocks")
 * To accomplish this, modify your code as follows:
 
 
@@ -547,7 +547,7 @@ int main(void)
 
     {
 
-        printf(https://cs50.harvard.edu/x/2023/notes/1/"#\n");
+        printf("#\n");
 
     }
 
@@ -560,7 +560,7 @@ Notice how three vertical bricks are printed using a loop.
 * What if we wanted to combine these ideas to create a three-by-three group of blocks?
 
 
-![Mario Grid](cs50Week1Slide127.png "Mario Grid")
+![Mario Grid](https://cs50.harvard.edu/x/2023/notes/1/cs50Week1Slide127.png "Mario Grid")
 * We can follow the logic above, combining the same ideas. Modify your code as follows:
 
 
