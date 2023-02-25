@@ -9,7 +9,7 @@
 * Get practice debugging
 
 
-![debugging](https://cs50.harvard.edu/x/2023/problems/1/debug/first_bug.jpg)
+![DebugGif](https://cs50.harvard.edu/x/2023/problems/1/debug/first_bug.jpg)
 
 
 ## Background
@@ -33,7 +33,7 @@ This lab starts with distribution code which has several syntactical errors. The
 ## Demo
 
 
-![DebugGif](debugDemo.gif)
+![DebugGif](https://cs50.harvard.edu/x/2023/problems/1/debug/debugDemo.gif)
 
 
 ## Getting Started
