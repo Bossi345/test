@@ -1,7 +1,7 @@
 # Week 1 Practice Problems
 
 
-These problems assume that you have already set up your CS50 Codespace in [Lab 1](../../labs/1/). Be sure to complete that before attempting these problems.
+These problems assume that you have already set up your CS50 Codespace in [Lab 1](../Lab 1). Be sure to complete that before attempting these problems.
 
 
 In addition to this week’s lab and problem set, you’re welcome to try any of these (optional!) practice problems:
